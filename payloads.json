@@ -1,0 +1,16 @@
+[
+    {
+        "method": "GET",
+        "api_endpoint": "/aabbccdd.../resources-server/api/...",
+        "data": {
+            "example-field": "example-value"
+        }
+    },
+    {
+        "method": "POST",
+        "api_endpoint": "/aabbccdd.../resources-server/api/...",
+        "data": {
+            "example-field": "example-value"
+        }
+    }
+]
